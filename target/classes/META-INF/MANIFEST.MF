@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: CdayTradeApplicationDevstockservices
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: HemantVyas
+Implementation-Vendor-Id: projects
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/CdayTradeApp
+ licationDevstockservices/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
